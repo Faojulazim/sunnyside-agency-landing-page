@@ -20,7 +20,7 @@ package-lock.json
 package.json
 README-template.md
 node_modules
+dist
 tailwind.config.js
 postcss.config.js
-dist
 style-guide.md
