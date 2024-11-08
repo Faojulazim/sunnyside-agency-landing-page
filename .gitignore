@@ -22,5 +22,5 @@ README-template.md
 node_modules
 tailwind.config.js
 postcss.config.js
-style-guide.md
 dist
+style-guide.md
